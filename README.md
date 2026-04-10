@@ -143,7 +143,7 @@ This case is included to demonstrate how the reconstruction pipeline behaves whe
 
 Visualization of the reconstructed NIfTI for the incomplete case:
 
-![Visualization of reconstructed NIfTI from the incomplete-slice case](assets/2026-04-10.png)
+<img src="assets/2026-04-10.png" alt="Visualization of reconstructed NIfTI from the incomplete-slice case" width="50%">
 
 This image is a visualization of the reconstructed NIfTI volume after removing part of the input slices. Even with missing slices, the remaining slices can still be reconstructed into a usable volume, and the missing indices are explicitly recorded in the reconstruction metadata.
 

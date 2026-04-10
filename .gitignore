@@ -2,9 +2,10 @@
 __pycache__/
 *.pyc
 
-outputs/reconstruction_cases/*/*.npy
+outputs/
 
 raw_data/
 
-guidelines.md
+cases/* copy/
+guideline.md
 IMPORTANT_NOTES.md
