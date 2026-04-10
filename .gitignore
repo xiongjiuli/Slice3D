@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+outputs/reconstruction_cases/*/*.npy
+
+raw_data/
+
+guidelines.md
+IMPORTANT_NOTES.md

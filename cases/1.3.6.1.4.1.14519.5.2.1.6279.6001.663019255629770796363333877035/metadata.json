@@ -1,0 +1,37 @@
+{
+  "case_id": "1.3.6.1.4.1.14519.5.2.1.6279.6001.663019255629770796363333877035",
+  "ImageFile": {
+    "directory": "/Users/julia/Documents/Codex_Local/Slice3D/cases/1.3.6.1.4.1.14519.5.2.1.6279.6001.663019255629770796363333877035/slices",
+    "format": "png",
+    "pattern": "slice_{InstanceNumber:04d}.png",
+    "count": 260
+  },
+  "InstanceNumber": {
+    "start": 1,
+    "end": 260,
+    "step": 1,
+    "sort_order": "ascending"
+  },
+  "ImagePositionPatient": [
+    151.57542419433594,
+    12.496101379394531,
+    -733.4000244140625
+  ],
+  "ImageOrientationPatient": [
+    -1.0,
+    0.0,
+    0.0,
+    0.0,
+    -1.0,
+    0.0
+  ],
+  "PixelSpacing": [
+    0.583984375,
+    0.583984375
+  ],
+  "Rows": 512,
+  "Columns": 512,
+  "SliceThickness": 1.0000001192092896,
+  "WindowCenter": -600.0,
+  "WindowWidth": 1500.0
+}
