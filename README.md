@@ -30,7 +30,7 @@ the reconstruction script:
 ```text
 Slice3D/
   cases/                         input case folders
-  outputs/reconstructed_cases/   reconstruction results
+  outputs/                       reconstruction results
   raw_data/                      source NIfTI files used to generate demo cases
   scripts/
     reconstruct_volumes_from_cases.py
@@ -68,7 +68,7 @@ Custom input/output directories:
 ```bash
 python scripts/reconstruct_volumes_from_cases.py \
   --cases-dir cases \
-  --output-dir outputs/reconstructed_cases \
+  --output-dir outputs \
   --overwrite
 ```
 

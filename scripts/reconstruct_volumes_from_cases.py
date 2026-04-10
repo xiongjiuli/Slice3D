@@ -29,7 +29,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("outputs/reconstructed_cases"),
+        default=Path("outputs"),
         help="Directory where reconstructed case volumes will be written.",
     )
     parser.add_argument(
